@@ -1,13 +1,13 @@
 
 <h3 align="left">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 Just sprouting into the world of Data Science!**
 
-- 💬 Ask me about **Statistical learning, Artificial Neural Networks, Analytics, etc**
+- 💬  Wanna chat about Stats that'll make your head spin, Artificial Neural Networks that'll make you go "whoa", and Analytics that'll make you feel like a superhero? Hit me up!
 
-- 📫 How to reach me **adybabu11@gmail.com**
+- 📫  You can reach me faster than the speed of light at **adybabu11@gmail.com**
 
-- ⚡ Fun fact **I am a critical thinker.**
+- ⚡  Fun fact: I don't believe in taking things at face value - **I'm a professional question-asker and critical thinker!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
