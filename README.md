@@ -1,5 +1,5 @@
 
-<h3 align="left">Software Engineer</h3>
+<h3 align="left">Software Engineer | Data Scientist</h3>
 
 - 🌱 Just sprouting into the world of Data Science!**
 
