@@ -1,6 +1,6 @@
 
 <h3 align="left">Software Engineer | Data Scientist</h3>
-
+- my story : https://adityababu.my.canva.site/portfolio
 - 🌱 Just sprouting into the world of Data Science!**
 
 - 💬  Wanna chat about Stats that'll make your head spin, Artificial Neural Networks that'll make you go "whoa", and Analytics that'll make you feel like a superhero? Hit me up!
