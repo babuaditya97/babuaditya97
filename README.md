@@ -2,9 +2,9 @@
 <h3 align="left">Software Engineer | Data Scientist</h3>
 - my story : https://adityababu.my.canva.site/portfolio
 
-- 🌱 Just sprouting into the world of Data Science!
+- 🌱 Just sprouting into the world of Artificial Intelligence!
 
-- 💬  Wanna chat about Stats that'll make your head spin, Artificial Neural Networks that'll make you go "whoa", and Analytics that'll make you feel like a superhero? Hit me up!
+- 💬  Wanna chat about Stats that'll make your head spin, AI advancements that'll make you go "whoa", and Analytics that'll make you feel like a superhero? Hit me up!
 
 - 📫  You can reach me faster than the speed of light at **adybabu11@gmail.com**
 
